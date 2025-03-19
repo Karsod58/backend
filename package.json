@@ -1,0 +1,21 @@
+{
+  "name": "chaibackend",
+  "version": "1.0.0",
+  "description": "a basic app ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "author": "Karan Sodhi",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "env": "^0.0.2",
+    "expres": "^0.0.5",
+    "express": "^4.21.2"
+  }
+}
